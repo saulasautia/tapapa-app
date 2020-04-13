@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tapapa-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/tapapa-app/static/js/main.4d031892.chunk.js",
+    "main.js.map": "/tapapa-app/static/js/main.4d031892.chunk.js.map",
+    "runtime-main.js": "/tapapa-app/static/js/runtime-main.04c56621.js",
+    "runtime-main.js.map": "/tapapa-app/static/js/runtime-main.04c56621.js.map",
+    "static/js/2.39b38d1d.chunk.js": "/tapapa-app/static/js/2.39b38d1d.chunk.js",
+    "static/js/2.39b38d1d.chunk.js.map": "/tapapa-app/static/js/2.39b38d1d.chunk.js.map",
+    "index.html": "/tapapa-app/index.html",
+    "precache-manifest.fba6c5b779c30c0a12d0dff25a806fc7.js": "/tapapa-app/precache-manifest.fba6c5b779c30c0a12d0dff25a806fc7.js",
+    "service-worker.js": "/tapapa-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/tapapa-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.39b38d1d.chunk.js.LICENSE.txt": "/tapapa-app/static/js/2.39b38d1d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tapapa-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04c56621.js",
+    "static/js/2.39b38d1d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4d031892.chunk.js"
+  ]
+}
